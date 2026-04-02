@@ -8,7 +8,9 @@ This story is a comparative analysis of data on DC grocery stores from 2015-2025
 - Added an identified issue column for each year
 - Fixed the headings in place
 - Added a filter to sort by Ward
-- Conducted research (with included links) to fill in data gaps 
+- Conducted research (with included links) to fill in data gaps
+- Excluded the years 1990-2014 to narrow the scope
+- Excluded 8 grocery stores that were unable to have complete data
 ## Limitations 
 - Small sample size
 - Does not include other ways to get groceries
