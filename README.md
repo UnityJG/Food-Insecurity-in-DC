@@ -17,7 +17,10 @@ This story is a comparative analysis of data on DC grocery stores from 2015-2025
 - Does not include other ways to get groceries
 - Incomplete original data 
 ## How to Use 
-- Use this data for data analysis, trends over time, and data visualization. 
+- Use this data for data analysis, trends over time, and data visualization.
+- Blue Highlight: I conducted the research.
+- Gray Highlight: Years not included in data analysis.
+- Yellow Highlight: Stores excluded from analysis (due to unverified opening and closing dates). 
 ## Transparency Note 
 This dataset has been cleaned for clarity. All cleaning steps are documented. 
  
