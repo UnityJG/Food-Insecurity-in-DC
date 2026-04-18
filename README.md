@@ -11,6 +11,7 @@ This story is a comparative analysis of data on DC grocery stores from 2015-2025
 - Conducted research (with included links) to fill in data gaps
 - Excluded the years 1990-2014 to narrow the scope
 - Excluded 8 grocery stores that were unable to have complete data
+- To calculate stores per square mile, I used data from Censusreporter.org that uses data from the 2024 census to find the square miles in each ward. Then, I divided the number of open stores in 2015 and 2025 by the number of square miles.  
 ## Limitations 
 - Small sample size
 - Does not include other ways to get groceries
