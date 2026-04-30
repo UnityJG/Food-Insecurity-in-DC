@@ -11,7 +11,7 @@ This story is a comparative analysis of data on DC grocery stores from 2015-2025
 - Looked for patterns (ex: if a store was open in 2018 and in 2022 it can be assumed it was open during 2019-2021)and conducted research (with included links) to fill in data gaps. 
 - Removed the years 1990-2014 to narrow the scope
 - Excluded 8 grocery stores that were unable to have complete data
-- To calculate stores per 10,000 residents, I used data from the 2020 census from D.C.gov to find the population for each ward. Then, I divided the number of open stores in 2015 and 2025 by the number of residents in each ward and then multiplied by 10,000 to find the number of grocery stores per 10,000 residents for each Ward. 
+- To calculate stores per 10,000 residents, I used data from the 2020 census from D.C.gov to find the population for each ward. Then, I divided the number of open stores in 2015 and 2025 by the number of residents in each ward and then multiplied by 10,000 to find the number of grocery stores per 10,000 residents for each Ward. I then rounded each number to the third decimal point. 
 ## Limitations 
 - Small sample size
 - Does not include other ways to get groceries
